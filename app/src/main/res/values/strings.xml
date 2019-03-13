@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HTML_Parser</string>
+    <string name="parse_html">Parse HTML</string>
 </resources>
